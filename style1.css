@@ -1,9 +1,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
 
-
-
-
 .sk{
     height: 75vh;
     width: 95vw;
@@ -13,8 +10,6 @@
     margin-top: 30px;
     box-shadow: 1px 1px 20px #989f9f;
     padding-top: 130px;
-
-
    
 }
 .page{
@@ -23,19 +18,15 @@
     width: 540px;
     margin-left: 420px;
     margin-top: -20px;
-    padding: 20px;
-    
+    padding: 20px;   
 }
-
 .input-row input {
     background-color: rgb(237, 236, 236);
     border: none;
     height: 25px;
     width: 190px;
-    padding: 5px;
-    
+    padding: 5px;    
 }
-
 .web input {
     background-color: rgb(237, 236, 236);
     border: none;
@@ -51,8 +42,6 @@ textarea{
     width: 400px;
     padding: 5px;
 }
-
-
 .form button{
     background: linear-gradient(to left , #2ffa65,#5171f0);
     color: aliceblue;
@@ -61,9 +50,7 @@ textarea{
     font-weight: bold;
     width: 80px;
     height: 40px;
-    text-align: center;
-   
-
+    text-align: center;   
 }
 
 p{
@@ -72,7 +59,6 @@ p{
     font-size: 15px;
     font-weight: 800;
     margin-left: 70px;
-
 }
 
 .input-row{
@@ -92,17 +78,12 @@ label{
     display: block;
    margin-top: 20px;
    margin-bottom:5px ;
-   font-size: 12px;
-   
+   font-size: 12px;   
 }
-
 
 .web{
     margin-left: 70px;
-
 }
-
-
 .call{
     text-align: center;
     font-weight: 300;
